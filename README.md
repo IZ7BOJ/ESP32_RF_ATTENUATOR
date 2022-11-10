@@ -1,4 +1,4 @@
-<p style="text-align:center;"><img src="/pictures/IMG_0196.jpeg" alt="picture" width="480"></p>
+<div style="text-align:center"><img src="/pictures/IMG_0196.jpeg" alt="picture" width="480"></div>
 # IZ7BOJ-ESP32_RF_ATTENUATOR
 RF attenuator based on Peregrine PE4302 and ESP32
 
